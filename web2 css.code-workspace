@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../c_files/.vscode/c/web development"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "web development"
+	}
+}
